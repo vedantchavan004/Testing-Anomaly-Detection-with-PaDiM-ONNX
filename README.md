@@ -46,6 +46,13 @@ Each image in the test set generates a visualization like:
 
 Stored in: `/content/transistor_padim/visualizations`
 
+### 🔍 Example Results
+
+| Original → Heatmap → Mask → Overlay |
+|:--:|
+| <img src="images/result_007.png" width="800"/> |
+| <img src="images/result_008.png" width="800"/> |
+
 ---
 
 ## 📐 Mahalanobis Distance: The Core Idea
