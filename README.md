@@ -86,7 +86,7 @@ If a pixel's Mahalanobis distance exceeds a certain threshold (e.g., 98th percen
 ## 💬 Credits
 Built using PyTorch, ONNX, and PaDiM principles from the original CVPR 2021 paper:
 
-"Student-teacher Feature Pyramid Matching for Unsupervised Anomaly Detection" by Defard et al.
+"PaDiM: a Patch Distribution Modeling Framework for Anomaly Detection and Localization"
 
 Dataset: MVTec AD Dataset
 ---
