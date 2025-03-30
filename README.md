@@ -50,8 +50,8 @@ Stored in: `/content/transistor_padim/visualizations`
 
 | Original → Heatmap → Mask → Overlay |
 |:--:|
-| <img src="images/result_007.png" width="800"/> |
-| <img src="images/result_008.png" width="800"/> |
+| <img src="Images/result_007.png" width="800"/> |
+| <img src="Images/result_008.png" width="800"/> |
 
 ---
 
