@@ -1,4 +1,4 @@
-# PaDiM Anomaly Detection with ONNX and MobileNetV3
+# PaDiM Anomaly Detection 
 
 A lightweight and interpretable anomaly detection pipeline based on **PaDiM (Patch Distribution Modeling)** using a **MobileNetV3-Small** backbone. This project demonstrates how to detect anomalies in industrial images (e.g. transistor defects) and export the model for efficient inference using **ONNX Runtime**.
 
